@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PORTAFOLIO2.iml" filepath="$PROJECT_DIR$/.idea/PORTAFOLIO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_calculation/api_calculation/PersonalProject.iml" filepath="$PROJECT_DIR$/api_calculation/api_calculation/PersonalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_gateway/api_gateway/api_gateway.iml" filepath="$PROJECT_DIR$/api_gateway/api_gateway/api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth-service/oauth-service/oauth-service.iml" filepath="$PROJECT_DIR$/oauth-service/oauth-service/oauth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-backend-apirest/spring-boot-backend-apirest.iml" filepath="$PROJECT_DIR$/spring-boot-backend-apirest/spring-boot-backend-apirest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth-service/spring-boot-backend-apirest (1).iml" filepath="$PROJECT_DIR$/oauth-service/spring-boot-backend-apirest (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/tank_service/tank_service/springboot-servicio-item.iml" filepath="$PROJECT_DIR$/tank_service/tank_service/springboot-servicio-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-oauth/springboot-servicio-oauth.iml" filepath="$PROJECT_DIR$/servicio-oauth/springboot-servicio-oauth.iml" />
+    </modules>
+  </component>
+</project>

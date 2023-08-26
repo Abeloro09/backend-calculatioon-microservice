@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/api_calculation/api_calculation/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/tank_service/tank_service/pom.xml" />
+        <option value="$PROJECT_DIR$/api_gateway/api_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-service/oauth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-backend-apirest/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/servicio-oauth/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

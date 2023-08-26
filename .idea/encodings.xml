@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api_calculation/api_calculation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_calculation/api_calculation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api_gateway/api_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth-service/oauth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-oauth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-oauth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-backend-apirest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-backend-apirest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tank_service/tank_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tank_service/tank_service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

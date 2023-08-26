@@ -20,20 +20,16 @@ public class SpringSecurityConfig {
         return http.authorizeExchange()
                 .pathMatchers("/security/oauth/**").permitAll()
                 .pathMatchers(HttpMethod.POST,
-                        "/analisis/quality",
                         "/infotank/tank",
                         "/liquidacion/movimiento/crearmovimiento/{cargueId}").hasAnyRole("ADMIN", "USER")
                 .pathMatchers(HttpMethod.PUT,
-                        "/analisis/quality/update/{id}",
                         "/infotank/tank/update/{id}",
                         "/liquidacion/movimiento/calcularLiquidacion/{id}/",
                         "/liquidacion/movimiento/editarLiquidacion/{id}/").hasAnyRole("ADMIN", "USER")
                 .pathMatchers(HttpMethod.DELETE,
-                        "/analisis/quality/delete/{id}",
                         "/infotank/tank/delete/{id}",
                         "/liquidacion/movimiento/eliminarMovimiento/{id}/").hasAnyRole("ADMIN", "USER")
                 .pathMatchers(HttpMethod.GET,
-                        "/analisis/quality/result",
                         "/analisis/quality/byId/{id}",
                         "/infotank/tank",
                         "/infotank/tank/byId/{id},",
